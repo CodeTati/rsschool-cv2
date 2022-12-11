@@ -1,5 +1,6 @@
 <h1 id="Kipping-Tetiana">Kipping Tetiana</h1> 
 
+<img width="250" src="https://scontent.fnic2-2.fna.fbcdn.net/v/t1.6435-9/200305061_1409875639373673_2851032396710090066_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=hKaqjjLDjBYAX8ckAmZ&_nc_ht=scontent.fnic2-2.fna&oh=00_AfDaNc_9Oya_P0unSWZt6FO-4Q6aYhrNt5opMMuOPFiisg&oe=63BC2072" alt="Photo" /><br />
 <h3 id="contact-information">Contact information:</h3>
 
 <strong>Phone:</strong> +38 066 67 65 307<br />
